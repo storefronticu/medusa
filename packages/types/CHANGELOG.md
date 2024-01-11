@@ -1,5 +1,13 @@
 # @medusajs/types
 
+## 1.11.11
+
+### Patch Changes
+
+- [#6055](https://github.com/medusajs/medusa/pull/6055) [`ce81cade8`](https://github.com/medusajs/medusa/commit/ce81cade887659cefe9638e3c1c2807378191c62) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(cart): Add CartService and AddressService
+
+- [#6059](https://github.com/medusajs/medusa/pull/6059) [`8472460f5`](https://github.com/medusajs/medusa/commit/8472460f533322cc4535199aa768ac163021bc79) Thanks [@fPolic](https://github.com/fPolic)! - feat: add Payment module package
+
 ## 1.11.10
 
 ### Patch Changes
